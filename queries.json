@@ -1,0 +1,6 @@
+{
+  "veterinary_anatomic_pathology": "TITLE-ABS-KEY((\"veterinary pathology\" OR \"anatomic pathology\" OR histopathology OR histopathological) AND (veterinary OR animal OR canine OR feline OR bovine OR avian))",
+  "comparative_oncology": "TITLE-ABS-KEY((\"comparative oncology\" OR \"veterinary oncology\") AND (pathology OR histopathology OR tumor OR tumour))",
+  "digital_pathology_ai": "TITLE-ABS-KEY((\"digital pathology\" OR \"computational pathology\" OR \"whole slide imaging\") AND (veterinary OR animal) AND (AI OR \"artificial intelligence\" OR \"deep learning\" OR pathology))",
+  "infectious_disease_pathology": "TITLE-ABS-KEY((veterinary OR animal) AND (pathology OR histopathology) AND (\"infectious disease\" OR zoonosis OR zoonotic OR emerging))"
+}
